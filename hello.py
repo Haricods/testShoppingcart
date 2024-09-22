@@ -3,4 +3,8 @@ if(a=20):
     print("stupid")
 else:
     print("genius")
+
 abcsss
+
+abcx
+
